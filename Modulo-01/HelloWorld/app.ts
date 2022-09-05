@@ -1,2 +1,5 @@
-let mensagem: string = 'Hello World, Ramon Ramos'
-console.log(mensagem)
+let concluido: boolean = true;
+let pendente: boolean = false;
+
+console.log(concluido)
+console.log(pendente)

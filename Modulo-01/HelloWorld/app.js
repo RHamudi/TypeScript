@@ -1,3 +1,5 @@
 "use strict";
-let mensagem = 'Hello World, Ramon Ramos';
-console.log(mensagem);
+let concluido = true;
+let pendente = false;
+console.log(concluido);
+console.log(pendente);
