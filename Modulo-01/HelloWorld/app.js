@@ -1,5 +1,3 @@
 "use strict";
-let concluido = true;
-let pendente = false;
-console.log(concluido);
-console.log(pendente);
+let listaFruta = ['laranja', 'pera', 'maça', 'banana'];
+console.log(...listaFruta);

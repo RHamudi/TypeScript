@@ -1,5 +1,3 @@
-let concluido: boolean = true;
-let pendente: boolean = false;
+let listaFruta: [string, ... string[]] = ['laranja', 'pera', 'maça', 'banana']
 
-console.log(concluido)
-console.log(pendente)
+console.log(... listaFruta)
